@@ -43,6 +43,7 @@ requirements:
     - backports_abc  # [py34]
     - pint >0.7
     - numba 
+    - hyperspy-gui-ipywidgets 
 test:
     requires:
         - pytest
