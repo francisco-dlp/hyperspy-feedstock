@@ -44,6 +44,7 @@ requirements:
     - pint >0.7
     - numba 
     - hyperspy-gui-ipywidgets 
+    - numexpr
 test:
     requires:
         - pytest
